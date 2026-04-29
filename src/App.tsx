@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import Button from './components/Button'
-import Tarjeta from "./components/Tarjeta";
+import Tarjeta from './components/Tarjeta'
 import './App.css'
 
 function App() {
